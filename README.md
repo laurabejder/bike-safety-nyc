@@ -1,10 +1,6 @@
 # data-studio-1
 
-
-
-
-
-
+This project examines the bike safety in New York City.
 
 ### Data sources:
 - Bike accidents in NYC: [NYC Open Data, Motor Vehicle Collisions - Crashes](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
