@@ -8,8 +8,15 @@
     <style>
         .container {
             /* Remove the line below if you want a wider page */
-            max-width: 600px !important;
+            max-width: 700px !important;
           font-family: Palatino;
+        }
+
+        img{
+          display: block;
+          width:700px;
+          margin: 0 auto;
+          transition: 0.3s;
         }
     </style>
   </head>
@@ -17,7 +24,7 @@
   <section class="section">
     <div class="container">
       <h1 class="title">
-        Headline
+        For bikers, New York is more dangerous than Copenhagen, but not all areas are created equal
       </h1>
       <p class="subtitle">
         Subhead
@@ -25,9 +32,65 @@
 
       <div class="content">
         <p><i>By Laura Bejder | date | <a href="https://github.com/laurabejder/data-studio-1"><u>Github</u></a></i></p>
-        <p>Paragraph</p>
+        <p>Every day, more than 40,000 cyclists cross Queen Louise’s Bridge in central Copenhagen on their way to work, school or... The bridge, overlooking the city's lakes, has become a key junction in the city’s bicycle infrastructure, and almost half its width is reserved for two-wheeled commuters. Only one lane in each direction is kept for the buses to cross.</p>
+
+        <p>Copenhagen is a biking city. With x percent of the population owning a bike and z percent using it as their primary mode of commute, …..  </p>
+
+        <p>When I moved to New York in August last year, one of the first things I missed was the biking accessibility and safety of my hometown. – a combination of flexibility and freedom. I had the sense that I, in some situations, was making my life more dangerous than necessary because of a stubborn insistence on continuing my life as I did at home.</p>
+
+        <iframe title="" aria-label="Map" id="datawrapper-chart-GRGJh" src="https://datawrapper.dwcdn.net/GRGJh/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="744" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+
+        <p> Why do the accidents happen???
+- Mostly because of cars? </p>
+
+
+
+          <iframe title="Most bike accidents ..." aria-label="Stacked Bars" id="datawrapper-chart-DKKBU" src="https://datawrapper.dwcdn.net/DKKBU/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="433" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
       
       </div>
+
+      <div class="lanes">
+        <h1>Show images</h1>
+        <img scr="" id="image">
+
+      
+      <img scr="2018.ia" id="images">
+        <script type="text/javascript">
+          var image_tracker = '2018';
+
+          function change(){
+            var image = document.getElementById('images');
+            if(image_tracker=='2018'){
+              image.src='2019.png';
+              image_tracker='2019'
+            }
+
+            else if(image_tracker=='2019'){
+              image.src='2020.png';
+              image_tracker='2020'
+            }
+            
+            else if(image_tracker=='2020'){
+              image.src='2021.png';
+              image_tracker='2021'
+            }
+
+            else if(image_tracker=='2021'){
+              image.src='2022.png';
+              image_tracker='2022'
+            }
+
+            else{
+              image.src='2018.png';
+              image_tracker='2018'
+            }
+          }
+
+          var timer = setInterval('change();',2000)
+        </script>
+
+
   </section>
   </body>
 </html>
+
