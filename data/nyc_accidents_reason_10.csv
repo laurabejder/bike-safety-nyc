@@ -1,11 +1,11 @@
-,CONTRIBUTING FACTOR VEHICLE 1,NUMBER OF CYCLIST INJURED,NUMBER OF CYCLIST KILLED
-1,Driver Inattention/Distraction,11753,27
-2,Failure to Yield Right-of-Way,5356,12
-3,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,3073,24
-4,Traffic Control Disregarded,1965,14
-5,Passenger Distraction,1537,7
-6,Passing or Lane Usage Improper,1386,5
-7,Other Vehicular,983,5
-8,Turning Improperly,774,0
-9,Following Too Closely,764,1
-10,Unsafe Speed,582,8
+,CONTRIBUTING FACTOR VEHICLE 1,NUMBER OF CYCLIST INJURED,NUMBER OF CYCLIST KILLED,vehicle_1_bike
+1,Driver Inattention/Distraction,9401,25,1
+2,Failure to Yield Right-of-Way,4448,7,1
+3,Driver Inattention/Distraction,2352,2,0
+4,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,2356,20,1
+6,Traffic Control Disregarded,1600,13,1
+7,Passenger Distraction,1464,7,1
+8,Passing or Lane Usage Improper,1052,4,1
+9,Failure to Yield Right-of-Way,908,5,0
+10,Other Vehicular,801,4,1
+11,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,717,4,0
