@@ -9,13 +9,12 @@ This is my first project data studios. The promp for this project was 'something
 - `nyc_cph_comparison.ipynb`:
 
 ### Inside the `data` directory:
-- `cph_bike_accidents.csv`
-- `cph_population.csv`
-- `nyc_accidents_development_2012_2021.csv`
-- `nyc_accidents_development_cleaned.csv`
-- `nyc_accidents_reason_5.csv`
-- `nyc_accidents_reason.csv`
-- `nyc_bike_accidents_2018_2022.csv`
+- `cph_bike_accidents.csv`: Accidents in Copenhagen 2012-2022.
+- `cph_population.csv`: Number of population in Copenhagen
+- `nyc_accidents_development_2012_2021.csv`: Injury rate and fatality rate per 1 million biker in New York 2012-2021.
+- `nyc_accidents_development_2012_2021_long.csv`: Long version of `nyc_accidents_development_2012_2021.csv` (used for visualization)
+- `nyc_accidents_reason_5.csv`: Top five reasons for bike accidents in 2022 (used for visualization)
+- `nyc_bike_accidents_2018_2022.csv`: Location and outcome of each accident from 2018-2022.
 - `nyc_bike_accidents.csv`
 - `nyc_bike_crashes_2022`
 - `nyc_bike_crashes.csv`
