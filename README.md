@@ -8,6 +8,19 @@ This is my first project data studios. The promp for this project was 'something
 - `accidents_data_visualization.ipynb`:
 - `nyc_cph_comparison.ipynb`:
 ### Inside the `data` directory:
+- `cph_bike_accidents.csv`
+- `cph_population.csv`
+- `nyc_accidents_development_2012_2021.csv`
+- `nyc_accidents_development_cleaned.csv`
+- `nyc_accidents_reason_5.csv`
+- ``
+- ``
+- ``
+- ``
+- ``
+- ``
+- ``
+- ``
 
 ### Inside the `map` directory:
 
