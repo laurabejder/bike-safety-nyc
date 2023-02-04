@@ -4,7 +4,9 @@ This is my first project data studios. The promp for this project was 'something
 
 ## In this repository
 ### Notebooks
-
+- `accidents_data_cleaning.ipynb`:
+- `accidents_data_visualization.ipynb`:
+- `nyc_cph_comparison.ipynb`:
 ### Inside the data directory:
 
 
