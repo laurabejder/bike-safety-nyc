@@ -12,7 +12,7 @@
     <style>
         .container {
             /* Remove the line below if you want a wider page */
-            max-width: 700px !important;
+          max-width: 700px !important;
           font-family: Palatino;
           color: #000000;
         }
@@ -54,6 +54,7 @@
           letter-spacing: 0.3px;
           color: #909090;
         }
+
     </style>
   </head>
   <body>
@@ -67,7 +68,7 @@
       </div>
 
       <div class="content">
-        <p>By Laura Bejder | date | <a href="https://github.com/laurabejder/data-studio-1" target="_blank"><u>Github</u></a></p>
+        <p>By Laura Bejder  |  February 4, 2023  |  <a href="https://github.com/laurabejder/data-studio-1" target="_blank"><u>Github</u></a></p>
         
         <p>Every day, more than 40,000 cyclists cross Queen Louise’s Bridge in central Copenhagen. The bridge, overlooking the city's lakes, has become a key junction in Copenhagen's bicycle infrastructure, and almost half its width is reserved for two-wheeled commuters. Only one lane in each direction is kept open for the buses to cross.</p>
 
@@ -75,13 +76,9 @@
 
         <p>When I moved to New York in August last year, one of the first things I missed was the biking accessibility and safety of my hometown. And rightly so. New York has 123 bike deaths per 1 billion bike trips, compared to only 19 fatalities per billion trips in Copenhagen, according to <a href="https://www.itf-oecd.org/sites/default/files/docs/monitoring-progress-urban-road-safety-2022.pdf" target="_blank">the International Transport Forum</a>. The chance of getting killed in an accident while biking is thus more than six times higher in New York.</p>
 
-        <div class="subhead">Bike accidents cluster in the city center</div>
-        <p>Most bike accidents in New York happen in lower Manhattan and Brooklyn. Broadway is the street with the highest number of total accidents but there are clusters of bike accidents on streets like 4th Avenue in Brooklyn and Delancey Street on Manhattan's Lower East Side.</p>
-
-
         <iframe title="" aria-label="Map" id="datawrapper-chart-GRGJh" src="https://datawrapper.dwcdn.net/GRGJh/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="744" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
 
-        <p>But the accidents that end fatally seem to be scattered accross the city.  
+        <p>Most bike accidents in New York happen in lower Manhattan and Brooklyn. Broadway is the street with the highest number of total accidents but there are clusters of bike accidents on streets like 4th Avenue in Brooklyn and Delancey Street on Manhattan's Lower East Side.</p>
 
         <p>But why do all these accidents happen in the first place?</p>
 
@@ -93,10 +90,10 @@
 
         <p>New York has taken measures to improve the safety of its bikers. In 2021 alone, the <a href="https://www.nyc.gov/html/dot/html/bicyclists/cyclinginthecity.shtml " target="_blank">city installed 1,456 miles of bike lanes</a>. Of them, 590 miles were protected bike lanes. Unlike normal bike lanes, protected bike lanes are – as the name indicates – physically separated from motorized vehicles by a parking lane or barrier, protecting bikers from traffic outside road intersections.</p>
 
-        <p>This differentiation between types of bike lanes is important. In 2019, a <a href="https://www.sciencedirect.com/science/article/abs/pii/S2214140518301488?via%3Dihub" target="_blank">study found</a>separate and protected bike lanes to be the strongest indicator of lower fatality rates and fewer injuries among bike riders.</p>
+        <p>This differentiation between types of bike lanes is important. In 2019, a <a href="https://www.sciencedirect.com/science/article/abs/pii/S2214140518301488?via%3Dihub" target="_blank">study found</a> separate and protected bike lanes to be the strongest indicator of lower fatality rates and fewer injuries among bike riders.</p>
   
 
-      <div class="graphtitle">New York is building more bike lanes – but mostly in Manhattan</div>
+      <div class="graphtitle">New York is getting safe bike lanes, but they mostly cover Manhattan</div>
       <div class="graphsubtitle">Expansion of protected bike lanes in New York City, 2018-2022</div>
       
       <img alt="map of bike lanes in New York City by year" scr="maps/2018.png" id="images">
@@ -133,13 +130,22 @@
 
           var timer = setInterval('change();',1000)
         </script>
-      </div>
       <div class="graphsubsubtitle">Chart: Laura Bejder Jensen • Source: <a href="https://data.cityofnewyork.us/Transportation/New-York-City-Bike-Routes/7vsa-caz7#revert" target="_blank" style = "color: cornflowerblue;">NYC Open Data</a></div>
         <p>There are more protected bike lanes in New York than ever before, but they are largely located in Manhattan or in parks, where the bikers naturally are shielded from traffic, while large areas of Brooklyn and Queens barely have any.</p>
 
         <iframe title="New York City is becoming slightly safer for bikers" aria-label="Interactive line chart" id="datawrapper-chart-w9j9I" src="https://datawrapper.dwcdn.net/w9j9I/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
-        </div>
+
+        <p></p>
+
+      <div class="graphtitle">Many fatal bike accidents happen away from protected bike lanes</div>
+      <div class="graphsubtitle">Fatal bike accidents and protected bike lanes in New York City, 2022. The red dots are fatal accidents and the blue lines are protected bike lanes.</div>    
+      	<img src="maps/accidents_lanes_2022.png" alt="Fatal bike accidents and protected bike lanes in 2022">
+      	<div class="graphsubsubtitle">Chart: Laura Bejder Jensen • Source: <a href="https://data.cityofnewyork.us/Transportation/New-York-City-Bike-Routes/7vsa-caz7#revert" target="_blank" style = "color: cornflowerblue;">NYC Open Data</a></div>
+      	<p>This proves that there is still plenty of room for improvement in the city's bike infrastructure. Expanding the protected bike lane network to the uncovered areas could hopefully help prevent future fatal accidents.</p>
+
+        
       </div>
+    </div>
   </section>
   </body>
 </html>
