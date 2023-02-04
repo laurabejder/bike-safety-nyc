@@ -7,20 +7,22 @@ This is my first project data studios. The promp for this project was 'something
 - `accidents_data_cleaning.ipynb`:
 - `accidents_data_visualization.ipynb`:
 - `nyc_cph_comparison.ipynb`:
+
 ### Inside the `data` directory:
 - `cph_bike_accidents.csv`
 - `cph_population.csv`
 - `nyc_accidents_development_2012_2021.csv`
 - `nyc_accidents_development_cleaned.csv`
 - `nyc_accidents_reason_5.csv`
-- ``
-- ``
-- ``
-- ``
-- ``
-- ``
-- ``
-- ``
+- `nyc_accidents_reason.csv`
+- `nyc_bike_accidents_2018_2022.csv`
+- `nyc_bike_accidents.csv`
+- `nyc_bike_crashes_2022`
+- `nyc_bike_crashes.csv`
+- `nyc_bikerides_numbers.csv`
+- `nyc_injuries_development_2012_2021.csv`
+- `nyc_motor_vehicle_crashes.csv`
+- `shape_files` directory: Shapefiles of the bike lanes in NYC from 2017-2022.
 
 ### Inside the `map` directory:
 
