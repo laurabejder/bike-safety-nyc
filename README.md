@@ -13,7 +13,7 @@ By mapping the shapefiles of the protected bike lanes over time, it became clear
 Lastly I standardized the number of yearly accidents by number of bike rides (accidents per 1 million) which showed that it has become a little safer to bike in New York. 
 
 ## Data collection
-- Summary of the data collection process, with links
+This project uses a patchwork of data to examine bike safety in New York. Most of the New York data comes from NYC Open data:
 
 - Bike accidents in NYC: [NYC Open Data, Motor Vehicle Collisions - Crashes](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
 - NYC bike lanes: [NYC Open Data, New York City Bike Routes](https://data.cityofnewyork.us/Transportation/New-York-City-Bike-Routes/7vsa-caz7#revert)
