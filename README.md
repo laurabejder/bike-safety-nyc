@@ -31,12 +31,11 @@ Got dataset of all Motor Vehicle Collisions in New York City from 2012 to 2023.
 despite the name, this dataset also includes solo bike accidents (crashes where only one bike and no other vehicles were involved). 
 
 ## New skills
-I spent quite a bit of time in QGIS mapping New York, bikelanes, accidents etc. and making all the information comprehensible to a reader. 
+I spent quite a bit of time in QGIS mapping New York, bikelanes, accidents etc. and making all the information comprehensible to a reader. And I now feel more confident working with QGIS to make maps that are beyond the limits of datawrapper. 
 
 In this project I also managed to create a simple javascript function that makes a series of images shift between each other. This allowed me to better illustrate how the bike lane network has been expanded over time. I enjoyed having a visual idea and actually be able to create it (although the quality could have been better – time to learn illustrator?) and expanding these skills is definitely something I'll work on during the next projects. 
 
-- comparing and standardizing. 
-- A section about what new skills, approaches, etc you used, or where you grew the most during the project
+Another thing I have learned while working on this project, is how difficult it can be to make comparisons. I began with an idea of comparing number of bike accidents in Copenhagen and New York. However, for this number to make any sense, it had to be put in relation to the number of people who actually bike in each city. It turned out to be impossible to get reliable numbers for Copenhagen. I could have standardized by population but I know from experience  and research that a much larger share of Copenhageners bike so those numbers would have been pretty off. Unable to standardize and then compare the accident numbers, I had to pivot and focus more on New York City in itself. Going through those though processes has made me more aware of the limitations of data.
 
 ## Further work
 - A section about things you tried to do or wanted to do but did not have the skills/time (but if you have more time you might do)
