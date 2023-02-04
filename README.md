@@ -15,10 +15,9 @@ This is my first project data studios. The promp for this project was 'something
 - `nyc_accidents_development_2012_2021_long.csv`: Long version of `nyc_accidents_development_2012_2021.csv` (used for visualization)
 - `nyc_accidents_reason_5.csv`: Top five reasons for bike accidents in 2022 (used for visualization)
 - `nyc_bike_accidents_2018_2022.csv`: Location and outcome of each accident from 2018-2022.
-- `nyc_bike_accidents.csv`
-- `nyc_bike_crashes_2022`
-- `nyc_bike_crashes.csv`
-- `nyc_bikerides_numbers.csv`
+- `nyc_bike_accidents.csv`: Complete data on all bike accidents
+- `nyc_bike_accidents_2022`: Data on all bike accidents in 2022
+- `nyc_bikerides_numbers.csv`: Estimated number of daily bike rides in NYC 2008-2021
 - `nyc_injuries_development_2012_2021.csv`
 - `nyc_motor_vehicle_crashes.csv`
 - `shape_files` directory: Shapefiles of the bike lanes in NYC from 2017-2022.
