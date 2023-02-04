@@ -31,6 +31,11 @@ Got dataset of all Motor Vehicle Collisions in New York City from 2012 to 2023.
 despite the name, this dataset also includes solo bike accidents (crashes where only one bike and no other vehicles were involved). 
 
 ## New skills
+I spent quite a bit of time in QGIS mapping New York, bikelanes, accidents etc. and making all the information comprehensible to a reader. 
+
+In this project I also managed to create a simple javascript function that makes a series of images shift between each other. This allowed me to better illustrate how the bike lane network has been expanded over time. I enjoyed having a visual idea and actually be able to create it (although the quality could have been better – time to learn illustrator?) and expanding these skills is definitely something I'll work on during the next projects. 
+
+- comparing and standardizing. 
 - A section about what new skills, approaches, etc you used, or where you grew the most during the project
 
 ## Further work
