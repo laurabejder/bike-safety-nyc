@@ -24,8 +24,11 @@ This repository also contains data on bike accidents in Copenhagen. This data is
 - Bike accidents in Copenhagen: [Statistics Denmark, Traffic Accidents](https://www.statistikbanken.dk/20056)
 
 ## Data analysis process
-Got dataset of all Motor Vehicle Collisions in New York City from 2012 to 2023.
-despite the name, this dataset also includes solo bike accidents (crashes where only one bike and no other vehicles were involved). 
+I started out with a dataset of all Motor Vehicle Collisions in New York City from 2012 to 2023. Despite the name, this dataset also includes solo bike accidents (crashes where only one bike and no other vehicles were involved). 
+
+I cleaned the dataset so it only includes accidents where a bike was involved. When I had the bike accident dataset, I started looking into the location of and the reasons for the accidents. Looking at the locations involved plotting the data to get a better sense of how they were spread geographically. For the accidents I looked at the given reason and split it up by whether the reason was caused by a bike or not.
+
+For the lane analysis, I had to plot the data in QGIS to properly see how the bike lanes have changed over time. I decided only to include category I (protected) bike lanes in my mapping. All other types were excluded.
 
 ## New skills
 I spent quite a bit of time in QGIS mapping New York, bikelanes, accidents etc. and making all the information comprehensible to a reader. And I now feel more confident working with QGIS to make maps that are beyond the limits of datawrapper. 
