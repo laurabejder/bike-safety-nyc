@@ -7,7 +7,19 @@ This is my first project data studios. The promp for this project was 'something
 - `accidents_data_cleaning.ipynb`:
 - `accidents_data_visualization.ipynb`:
 - `nyc_cph_comparison.ipynb`:
+
 ### Inside the `data` directory:
+- `cph_bike_accidents.csv`: Accidents in Copenhagen 2012-2022.
+- `cph_population.csv`: Number of population in Copenhagen
+- `nyc_accidents_development_2012_2021.csv`: Injury rate and fatality rate per 1 million biker in New York 2012-2021.
+- `nyc_accidents_development_2012_2021_long.csv`: Long version of `nyc_accidents_development_2012_2021.csv` (used for visualization)
+- `nyc_accidents_reason_5.csv`: Top five reasons for bike accidents in 2022 (used for visualization)
+- `nyc_bike_accidents_2018_2022.csv`: Location and outcome of each accident from 2018-2022.
+- `nyc_bike_accidents.csv`: Complete data on all bike accidents
+- `nyc_bike_accidents_2022`: Data on all bike accidents in 2022
+- `nyc_bikerides_numbers.csv`: Estimated number of daily bike rides in NYC 2008-2021
+- `nyc_injuries_development_2012_2021.csv`: Total number of bike accident injuries 2012-2022
+- `shape_files` directory: Shapefiles of the bike lanes in NYC from 2017-2022.
 
 ### Inside the `map` directory:
 
