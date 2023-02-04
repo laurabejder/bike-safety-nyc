@@ -6,14 +6,11 @@ This is my first project data studios. The promp for this project was 'something
 This project examines the bike safety and the condition of the bike infrastructure in New York City. It looks into the location and reasons for accidents that result in the injury or death of a cyclist and visually illustrate how the city has tried to improve bike safety by expanding its network of protected bike lanes.
 
 ## Findings
-I found that bike accidents are clustered around Lower Manhattan and Brooklyn
+I found that bike accidents in 2022 were clustered around Lower Manhattan and Brooklyn. The most common causes for bike accidents were inattentive or distracted car drivers or cars that failed to yield right-of-way.
 
-Most common causes for accidents ... 
+By mapping the shapefiles of the protected bike lanes over time, it became clear that New York City has expanded its bike infrastructure, but that large areas of the city are scarcely covered by protected bike lanes. When I plottet the fatal accidents on top of the protected bike lanes, it also showed that many of the fatal accidents happen where there are no protected bike lanes.  
 
-By mapping the shapefiles of the protected bike lanes over time, it became clear that the .... 
-
-Standardized the number of accidents by number of bike rides, accidents per 1 million, it has become a little safer to bike in New York. 
-
+Lastly I standardized the number of yearly accidents by number of bike rides (accidents per 1 million) which showed that it has become a little safer to bike in New York. 
 
 ## Data collection
 - Summary of the data collection process, with links
