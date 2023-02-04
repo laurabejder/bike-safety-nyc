@@ -2,6 +2,7 @@
 
 This is my first project data studios. The promp for this project was 'something you miss from home' and as a Dane, my mind went straight to biking. I was curious to how dangerous it is to bike in New York City and how it compares to my home town Copenhagen.
 
+## In this repository
 ### Notebooks
 
 ### Inside the data directory:
