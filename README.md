@@ -30,6 +30,8 @@ I cleaned the dataset so it only includes accidents where a bike was involved. W
 
 For the lane analysis, I had to plot the data in QGIS to properly see how the bike lanes have changed over time. I decided only to include category I (protected) bike lanes in my mapping. All other types were excluded.
 
+On top of the protected bike lanes in 2022, I plottet all the fatal accidents to get a better sense of whether there seem to be a pattern between protected bike lanes and fatal accidents. Unlike accidents resulting in injuries, fatal accidents are scatteret all across the city, many of them in areas without protected bike lanes. However, thankfully there aren’t many fatal bike accidents each year, so it is difficult to say anything conclusive about a potential relationship between bike lanes and deaths.
+
 ## New skills
 I spent quite a bit of time in QGIS mapping New York, bikelanes, accidents etc. and making all the information comprehensible to a reader. And I now feel more confident working with QGIS to make maps that are beyond the limits of datawrapper. 
 
