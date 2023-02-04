@@ -6,7 +6,14 @@ This is my first project data studios. The promp for this project was 'something
 This project examines the bike safety and the condition of the bike infrastructure in New York City. It looks into the location and reasons for accidents that result in the injury or death of a cyclist and visually illustrate how the city has tried to improve bike safety by expanding its network of protected bike lanes.
 
 ## Findings
-- Short description of your findings
+I found that bike accidents are clustered around Lower Manhattan and Brooklyn
+
+Most common causes for accidents ... 
+
+By mapping the shapefiles of the protected bike lanes over time, it became clear that the .... 
+
+Standardized the number of accidents by number of bike rides, accidents per 1 million, it has become a little safer to bike in New York. 
+
 
 ## Data collection
 - Summary of the data collection process, with links
@@ -20,7 +27,8 @@ This repository also contains data on bike accidents in Copenhagen. This data is
 - Bike accidents in Copenhagen: [Statistics Denmark, Traffic Accidents](https://www.statistikbanken.dk/20056)
 
 ## Data analysis process
-- Overview of the data analysis process
+Got dataset of all Motor Vehicle Collisions in New York City from 2012 to 2023.
+despite the name, this dataset also includes solo bike accidents (crashes where only one bike and no other vehicles were involved). 
 
 ## New skills
 - A section about what new skills, approaches, etc you used, or where you grew the most during the project
