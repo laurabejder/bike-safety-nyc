@@ -1,9 +1,9 @@
 # Bike safety in New York City
 
-This project examines the bike safety in New York City.
+1 project for....
 
 ## Aim of the project
-- Short description of what you aimed to accomplish
+This project examines the bike safety and the condition of the bike infrastructure in New York City. It looks into the location and reasons for accidents that result in the injury or death of a cyclist and visually illustrate how the city has tried to improve bike safety by expanding its network of protected bike lanes.
 
 ## Findings
 - Short description of your findings
