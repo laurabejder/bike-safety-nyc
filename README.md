@@ -15,6 +15,7 @@ This project examines the bike safety and the condition of the bike infrastructu
 - NYC bike lanes: [NYC Open Data, New York City Bike Routes](https://data.cityofnewyork.us/Transportation/New-York-City-Bike-Routes/7vsa-caz7#revert)
 - Shape files of NYC: [The University of Texas at Austin, GeoData](https://geodata.lib.utexas.edu/?f%5Bdc_format_s%5D%5B%5D=Shapefile&f%5Bdct_spatial_sm%5D%5B%5D=New+York%2C+New+York%2C+United+States&per_page=50)
 - Number of bike riders in NYC: [NYC DOT Cycling in the City](https://www.nyc.gov/html/dot/html/bicyclists/cyclinginthecity.shtml)
+
 This repository also contains data on bike accidents in Copenhagen. This data isn't included in the article because it wasn't possible to properly standardize it by number of bike riders and thus make it comparable to New York City.
 - Bike accidents in Copenhagen: [Statistics Denmark, Traffic Accidents](https://www.statistikbanken.dk/20056)
 
