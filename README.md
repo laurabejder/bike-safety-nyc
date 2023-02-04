@@ -18,8 +18,7 @@ This is my first project data studios. The promp for this project was 'something
 - `nyc_bike_accidents.csv`: Complete data on all bike accidents
 - `nyc_bike_accidents_2022`: Data on all bike accidents in 2022
 - `nyc_bikerides_numbers.csv`: Estimated number of daily bike rides in NYC 2008-2021
-- `nyc_injuries_development_2012_2021.csv`
-- `nyc_motor_vehicle_crashes.csv`
+- `nyc_injuries_development_2012_2021.csv`: Total number of bike accident injuries 2012-2022
 - `shape_files` directory: Shapefiles of the bike lanes in NYC from 2017-2022.
 
 ### Inside the `map` directory:
