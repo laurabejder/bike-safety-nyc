@@ -21,9 +21,6 @@ This is my first project data studios. The promp for this project was 'something
 - `nyc_injuries_development_2012_2021.csv`: Total number of bike accident injuries 2012-2022
 - `shape_files` directory: Shapefiles of the bike lanes in NYC from 2017-2022.
 
-### Inside the `map` directory:
-
-
 ## Project description
 
 ### Aim of the project
@@ -64,5 +61,6 @@ In this project I also managed to create a simple javascript function that makes
 Another thing I have learned while working on this project, is how difficult it can be to make comparisons. I began with an idea of comparing number of bike accidents in Copenhagen and New York. However, for this number to make any sense, it had to be put in relation to the number of people who actually bike in each city. It turned out to be impossible to get reliable numbers for Copenhagen. I could have standardized by population but I know from experience  and research that a much larger share of Copenhageners bike so those numbers would have been pretty off. Unable to standardize and then compare the accident numbers, I had to pivot and focus more on New York City in itself. Going through those though processes has made me more aware of the limitations of data.
 
 ### Further work
-- A section about things you tried to do or wanted to do but did not have the skills/time (but if you have more time you might do)
+If I had more time (or more skills) I would have liked to build on the comparison between Copenhagen and New York. I would either need to get access to additional data or find a way to properly standardize the numbers I have now. 
 
+I would also like to add to the visual side of the article. I have had a hard time finding a picture or video that could serve as an appetizer in the beginning of the article. 
