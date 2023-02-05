@@ -64,3 +64,5 @@ Another thing I have learned while working on this project, is how difficult it 
 If I had more time (or more skills) I would have liked to build on the comparison between Copenhagen and New York. I would either need to get access to additional data or find a way to properly standardize the numbers I have now. 
 
 I would also like to add to the visual side of the article. I have had a hard time finding a picture or video that could serve as an appetizer in the beginning of the article. 
+
+At last, I would like to expand on the analysis of the relationship between protected bike lanes and fatal bike accidents. I reached a point where I could point to a weak indication of a relationship but I would need more data and time to be able to say anything more conclusive. For now it could be a signal but it could also be noise. 
