@@ -3,11 +3,10 @@
 This is my first project data studios. The promp for this project was 'something you miss from home' and as a Dane, my mind went straight to biking. I was curious to how dangerous it is to bike in New York City and how it compares to my home town Copenhagen.
 
 ## In this repository
-The file `index.html` contains the code for the article [For bikers, New York is more dangerous than Copenhagen, but not all areas are created equal](http://laurabejder.com/bike-safety-nyc/).
 ### Notebooks
-- `accidents_data_cleaning.ipynb`:
-- `accidents_data_visualization.ipynb`:
-- `nyc_cph_comparison.ipynb`:
+- `accidents_data_cleaning.ipynb`: This notebook cleans the dataset [Motor Vehicle Collisions - Crashes](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95) from the [NYC Open Data](https://opendata.cityofnewyork.us/) portal. The dataset contains information on all crashes but for this project I am only interested in crashes involving bikes. The main part of the cleaning is thus to sorting the dataset to only include bike accidents.
+- `accidents_data_visualization.ipynb`: In this notebook I prepare the data from the csv `nyc_bike_accidents.csv` for data visualization.
+- `nyc_cph_comparison.ipynb`: This notebook contains some comparison of the bike safety in New York and Copenhagen. 
 
 ### Inside the `data` directory:
 - `cph_bike_accidents.csv`: Accidents in Copenhagen 2012-2022.
