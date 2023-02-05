@@ -3,6 +3,7 @@
 This is my first project data studios. The promp for this project was 'something you miss from home' and as a Dane, my mind went straight to biking. I was curious to how dangerous it is to bike in New York City and how it compares to my home town Copenhagen.
 
 ## In this repository
+The file `index.html` contains the code for the article [For bikers, New York is more dangerous than Copenhagen, but not all areas are created equal](http://laurabejder.com/bike-safety-nyc/).
 ### Notebooks
 - `accidents_data_cleaning.ipynb`:
 - `accidents_data_visualization.ipynb`:
