@@ -3,11 +3,10 @@
 This is my first project data studios. The promp for this project was 'something you miss from home' and as a Dane, my mind went straight to biking. I was curious to how dangerous it is to bike in New York City and how it compares to my home town Copenhagen.
 
 ## In this repository
-The file `index.html` contains the code for the article [For bikers, New York is more dangerous than Copenhagen, but not all areas are created equal](http://laurabejder.com/bike-safety-nyc/).
 ### Notebooks
-- `accidents_data_cleaning.ipynb`:
-- `accidents_data_visualization.ipynb`:
-- `nyc_cph_comparison.ipynb`:
+- `accidents_data_cleaning.ipynb`: This notebook cleans the dataset [Motor Vehicle Collisions - Crashes](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95) from the [NYC Open Data](https://opendata.cityofnewyork.us/) portal. The dataset contains information on all crashes but for this project I am only interested in crashes involving bikes. The main part of the cleaning is thus to sorting the dataset to only include bike accidents.
+- `accidents_data_visualization.ipynb`: In this notebook I prepare the data from the csv `nyc_bike_accidents.csv` for data visualization.
+- `nyc_cph_comparison.ipynb`: This notebook contains some comparison of the bike safety in New York and Copenhagen. 
 
 ### Inside the `data` directory:
 - `cph_bike_accidents.csv`: Accidents in Copenhagen 2012-2022.
@@ -21,9 +20,6 @@ The file `index.html` contains the code for the article [For bikers, New York is
 - `nyc_bikerides_numbers.csv`: Estimated number of daily bike rides in NYC 2008-2021
 - `nyc_injuries_development_2012_2021.csv`: Total number of bike accident injuries 2012-2022
 - `shape_files` directory: Shapefiles of the bike lanes in NYC from 2017-2022.
-
-### Inside the `map` directory:
-
 
 ## Project description
 
@@ -65,5 +61,8 @@ In this project I also managed to create a simple javascript function that makes
 Another thing I have learned while working on this project, is how difficult it can be to make comparisons. I began with an idea of comparing number of bike accidents in Copenhagen and New York. However, for this number to make any sense, it had to be put in relation to the number of people who actually bike in each city. It turned out to be impossible to get reliable numbers for Copenhagen. I could have standardized by population but I know from experience  and research that a much larger share of Copenhageners bike so those numbers would have been pretty off. Unable to standardize and then compare the accident numbers, I had to pivot and focus more on New York City in itself. Going through those though processes has made me more aware of the limitations of data.
 
 ### Further work
-- A section about things you tried to do or wanted to do but did not have the skills/time (but if you have more time you might do)
+If I had more time (or more skills) I would have liked to build on the comparison between Copenhagen and New York. I would either need to get access to additional data or find a way to properly standardize the numbers I have now. 
 
+I would also like to add to the visual side of the article. I have had a hard time finding a picture or video that could serve as an appetizer in the beginning of the article. 
+
+At last, I would like to expand on the analysis of the relationship between protected bike lanes and fatal bike accidents. I reached a point where I could point to a weak indication of a relationship but I would need more data and time to be able to say anything more conclusive. For now it could be a signal but it could also be noise. 
